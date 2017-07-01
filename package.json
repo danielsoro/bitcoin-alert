@@ -1,0 +1,15 @@
+{
+  "name": "bitcoin-alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --harmony-async-await app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "blinktrade": "^0.0.7"
+  }
+}
